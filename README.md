@@ -10,4 +10,13 @@
   * 학점: 3.91/4.3
 * University of Hawaii at Manoa, 2023-01 ~ 2023-05
 
-dfdf
+# 3. Experiences
+## 3-1. Universiy Clubs
+|club|period|explanation|
+|---|---|---|
+|송장꾼 (송도동 장사꾼)|2019-3 ~ 2020-2|창업 동아리
+|연장꾼 (연희동 장사꾼)|2020-02 ~ 2020-12|창업동아리|
+|연세찰칵|2020-04~ 2021-12||
+|YCC(Yonsei Computer Club)|2021-09 ~||
+|YES (Yonsei English Society)|2023-09~||
+
