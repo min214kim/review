@@ -20,3 +20,17 @@
 |YCC(Yonsei Computer Club)|2021-09 ~||
 |YES (Yonsei English Society)|2023-09~||
 
+<br>
+
+## 3-2. In-school Activities
+|activity|period|explanation|
+|---|---|---|
+|Workstation(사회혁신프로젝트) - 공양미|2020-04~2021-12|치마예방 및 노년층 행복증진 프로젝트|
+|Workstation(사회혁신프로젝트) - on^3|2022-04~2022-12|교육격차해소를 위한 봉사 및 펀딩|
+|교수학습센터 한국어 튜터링|2023-09~|국제학생에게 한국어 튜터링 제공|
+
+<br>
+
+
+
+
