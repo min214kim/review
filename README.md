@@ -40,6 +40,12 @@
 <br>
 
 
+# 4. Skills
+## 4-1. English
+* Toeic 925 (2018.12)
+* Toefl 101 (2022.07)
+## 4-2. Certificates
 
+<br>
 
 
