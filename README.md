@@ -8,3 +8,6 @@
   * 주전공: 생활디자인학
   * 복수전공: 경제학
   * 학점: 3.91/4.3
+* University of Hawaii at Manoa, 2023-01 ~ 2023-05
+
+dfdf
