@@ -31,6 +31,15 @@
 
 <br>
 
+## 3-3. Out-of-school Activities
+|activity|period|explanation|
+|---|---|---|
+|문구류제품 펀딩|2021-12|[체커보드플래너](https://link.tumblbug.com/qbFjvjkWeDb)|
+|문구류제품 펀딩|2022-07|[학교생활pdf](https://link.tumblbug.com/unijNBoWeDb)
+
+<br>
+
+
 
 
 
